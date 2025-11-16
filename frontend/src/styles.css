@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; padding: 16px; background:#f7f7fb; }
+.container{ max-width:900px; margin:0 auto; }
+.forms{ display:flex; gap:16px; }
+.card{ background:#fff; padding:16px; border-radius:8px; box-shadow:0 1px 3px rgba(0,0,0,0.1); width:320px; }
+.grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin-top:16px; }
+.search{ margin:12px 0; display:flex; gap:8px; }
+button{ cursor:pointer; padding:8px 10px; border-radius:6px; border:1px solid #ccc; background:#fff; }
+.badge{ background:#ffd; padding:6px 8px; border-radius:6px; margin-right:8px; }
