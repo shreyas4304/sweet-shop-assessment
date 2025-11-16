@@ -28,3 +28,9 @@ Good luck and let me know if you want me to:
 - Add more tests
 - Improve UI
 - Create a Dockerfile or deployment instructions
+
+  # AI Usage
+I used ChatGPT to help generate project structure and initial boilerplate.
+
+Co-authored-by: ChatGPT <AI@users.noreply.github.com>
+
